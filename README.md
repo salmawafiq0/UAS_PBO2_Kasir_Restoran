@@ -1,4 +1,4 @@
-# 🍽️ Aplikasi Kasir Restoran (JavaFX + MySQL)
+# Final Proyek Pemrograman Berorientasi Obyek 2 🍽️ Aplikasi Kasir Restoran (JavaFX + MySQL)
 
 ## 📌 Deskripsi Singkat
 Aplikasi ini adalah sistem desktop sederhana berbasis **Java** dengan tampilan **JavaFX** (tanpa FXML) dan database **MySQL** yang dirancang untuk mengelola pemesanan dan pembayaran makanan serta minuman di restoran.  
