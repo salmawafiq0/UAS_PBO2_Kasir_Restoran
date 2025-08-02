@@ -1,5 +1,16 @@
 # Final Proyek Pemrograman Berorientasi Obyek 2 🍽️ Aplikasi Kasir Restoran (JavaFX + MySQL)
+- Mata Kuliah : Pemrograman Berorientasi Obyek 2
+- Dosen Pengampu : Muhammad Ikhwan Fathulloh
 
+## Profil
+Nama : Wafiq Salma Aulia
+NPM : 23552011427
+Studi Kasus : Kasir Restoran
+
+## Judul Studi Kasus
+Kasir Restoran : Mengelola Pemesanan dan pembayaran makanan dan minuman
+
+## Penjelasan Studi Kasus
 ## 📌 Deskripsi Singkat
 Aplikasi ini adalah sistem desktop sederhana berbasis **Java** dengan tampilan **JavaFX** (tanpa FXML) dan database **MySQL** yang dirancang untuk mengelola pemesanan dan pembayaran makanan serta minuman di restoran.  
 Aplikasi dibangun menggunakan konsep **Object-Oriented Programming (OOP)** dan koneksi database melalui **JDBC**.
@@ -55,9 +66,6 @@ Polymorphism
 
 Metode hitungHarga() diimplementasikan sesuai kebutuhan oleh kelas turunan.
 
-📸 Hasil Run Aplikasi
-
-Untuk melihat hasil run aplikasi secara lengkap, beriku merupakan link drivenya:
-
-https://drive.google.com/drive/folders/1gmwP1T1Gw3j9KjdKIxvaEtZ5amQze1Fz?usp=drive_link
-
+## 📸 Hasil Run Aplikasi
+- Github : https://github.com/salmawafiq0/UAS_PBO2_Kasir_Restoran.git
+- Youtube : https://youtu.be/Ui_9WlK5PEM?si=mKux2PKjLmuN4j07
