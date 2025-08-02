@@ -3,9 +3,9 @@
 - Dosen Pengampu : Muhammad Ikhwan Fathulloh
 
 ## Profil
-Nama : Wafiq Salma Aulia
-NPM : 23552011427
-Studi Kasus : Kasir Restoran
+- Nama : Wafiq Salma Aulia
+- NPM : 23552011427
+- Studi Kasus : Kasir Restoran
 
 ## Judul Studi Kasus
 Kasir Restoran : Mengelola Pemesanan dan pembayaran makanan dan minuman
