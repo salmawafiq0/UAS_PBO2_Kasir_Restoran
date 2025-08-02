@@ -4,7 +4,7 @@
 
 ## Profil
 - Nama : Wafiq Salma Aulia
-- NPM : 23552011427
+- NIM : 23552011427
 - Studi Kasus : Kasir Restoran
 
 ## Judul Studi Kasus
